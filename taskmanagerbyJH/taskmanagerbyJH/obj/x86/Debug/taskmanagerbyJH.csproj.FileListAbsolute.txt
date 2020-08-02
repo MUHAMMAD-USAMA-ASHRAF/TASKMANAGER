@@ -1,0 +1,32 @@
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.exe
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.pdb
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Form1.resources
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Properties.Resources.resources
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.exe
+C:\Users\DELL\Desktop\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.pdb
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.exe
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.pdb
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.exe
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.pdb
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Form1.resources
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Properties.Resources.resources
+C:\Users\DELL\Documents\5th semester data\operating system\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.GenerateResource.Cache
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.exe
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.pdb
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csprojAssemblyReference.cache
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Form1.resources
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Properties.Resources.resources
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.GenerateResource.cache
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.CoreCompileInputs.cache
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.exe
+D:\SAMEER\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.pdb
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.exe
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\bin\Debug\taskmanagerbyJH.pdb
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csprojAssemblyReference.cache
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Form1.resources
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.Properties.Resources.resources
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.GenerateResource.cache
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.csproj.CoreCompileInputs.cache
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.exe
+D:\SAMEER\Projects\taskmanagerbyJH\taskmanagerbyJH\obj\x86\Debug\taskmanagerbyJH.pdb
